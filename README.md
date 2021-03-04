@@ -5,39 +5,56 @@ The five principle I choose:
 
 
 Principle 1 - Purpose of collection of personal information
+
 Consider:
 
 Do I have a lawful purpose to collect users’ personal information?
+
 I will explain the purpose of data collection in Privacy Policy.
+
 I will ensure the collection of this information is necessary to achieve that purpose.
 
 
 Principle 6 - Access to personal information 
+
 Consider:
+
 Do users have the access to personal information?
+
 Users are able to access that information if it is readily retrievable.
+
 Users can send an access request to me.
 
 
 Principle 7 - Correction of personal information 
+
 Consider:
+
 How do users make a correction on their personal information?
+
 Users are able to send a request and I will assist users to make the correction.
+
 User can easily correct their information on our website.
 
 
 Principle 10 - Limits on use of personal information 
+
 Consider:
+
 How do I use that personal information?
+
 I must use personal information for the same purpose for which I obtained that information.
+
 I can only use the information that is authorized by the individual concerned.
 
-
-
 Principle 11 - Limits on disclosure of personal information
+
 In which circomcircumstances I am able to disclose user information? 
+
 We will release the personal information if it is forced to by statute or court order. 
+
 We have choice that how we will disclose the information and how much information we will disclose.
+
 
 
 2. Privacy Policy
@@ -51,37 +68,63 @@ Main purpose: Selling camera hardware and photo service.
 
 
 The type of data that they collected: 
+
 1.	Basic identification and contact information, such as your name and contact details. This is for create an account on the website.
+
 2.	Your shopping history: what kind of product or service that you are looking for.
+
 3.	Credit card information: this is for check out.
+
 4.	The information you post on the website: comments.
+	
 5.	Sending a message: through contact us.
-Please see attached:  privacyPolicy_20210601.docx
+
+
+
 
 
 Demonstration the five principles in my privacy policy:
+
 Principle 1 - Purpose of collection of personal information
+
 It is explained under the policy 1, 2, 3, 4, 5 and 8. It covers all different kind of data that we collect, and it shows the purpose of collection as well.
+
 Principle 6 - Access to personal information
+
 It is explained under the policy 12. Users are able to review or update their personal information that we hold.
+
 Principle 7 - Correction of personal information
+
 It is explained under the policy 12. Users are able to review or update their personal information that we hold.
+
 Principle 10 - Limits on use of personal information
+
 It is explained under the policy 13. We ensure that we are not using the information for other purpose.
+
 Principle 11 - Limits on disclosure of personal information
+
 It is explained under the policy 11. We may disclose the information under certain circumstances.
 
 
 
 Privacy Policy
+
 This is the privacy policy of The Camera Shop. In this document, “we” or “us” refers to thecamerashop.co.nz.
+
 We are company number XXXXXXX registered in NZ
+
 Our registered office is at 35 Queen Street, Warkworth 0910
+
 This is a notice to tell you our policy about all information that we record about you. It covers both information that could identify you and information that could not.
+
 We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our web site are quite rightly concerned to know that their data will not be used for any purpose unintended by them and will not accidentally fall into the hands of a third party. Our policy is both specific and strict. It complies with New Zealand laws and with the laws of all jurisdictions of which we are aware. If you think our policy falls short of your expectations or that we are failing to abide by our policy, do please tell us.
+
 We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our web site immediately.
+
 Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site.
+
 Here is a list of the information we collect from you, either through our web site or because you give it to us in some other way, and why it is necessary to collect it:
+
 1.	Basic identification and contact information, such as your name and contact details
 Basic identification and contact information, such as your name and contact details. This information is used:
 1.1.    to provide you with the services which you request;
