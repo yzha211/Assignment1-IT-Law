@@ -1,27 +1,39 @@
 # Assignment1-IT-Law
 #1. Privacy Checklist
+
 The five principle I choose:
 
+
 Principle 1 - Purpose of collection of personal information
-Consider: 
+Consider:
+
 Do I have a lawful purpose to collect users’ personal information?
 I will explain the purpose of data collection in Privacy Policy.
 I will ensure the collection of this information is necessary to achieve that purpose.
+
+
 Principle 6 - Access to personal information 
 Consider:
 Do users have the access to personal information?
 Users are able to access that information if it is readily retrievable.
 Users can send an access request to me.
+
+
 Principle 7 - Correction of personal information 
 Consider:
 How do users make a correction on their personal information?
 Users are able to send a request and I will assist users to make the correction.
 User can easily correct their information on our website.
+
+
 Principle 10 - Limits on use of personal information 
 Consider:
 How do I use that personal information?
 I must use personal information for the same purpose for which I obtained that information.
 I can only use the information that is authorized by the individual concerned.
+
+
+
 Principle 11 - Limits on disclosure of personal information
 In which circomcircumstances I am able to disclose user information? 
 We will release the personal information if it is forced to by statute or court order. 
@@ -29,9 +41,15 @@ We have choice that how we will disclose the information and how much informatio
 
 
 2. Privacy Policy
+
+
 The website I choose is The Camera Shop
+
 URL: https://www.thecamerashop.co.nz/
+
 Main purpose: Selling camera hardware and photo service.
+
+
 The type of data that they collected: 
 1.	Basic identification and contact information, such as your name and contact details. This is for create an account on the website.
 2.	Your shopping history: what kind of product or service that you are looking for.
@@ -39,6 +57,7 @@ The type of data that they collected:
 4.	The information you post on the website: comments.
 5.	Sending a message: through contact us.
 Please see attached:  privacyPolicy_20210601.docx
+
 
 Demonstration the five principles in my privacy policy:
 Principle 1 - Purpose of collection of personal information
